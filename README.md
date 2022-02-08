@@ -3,7 +3,7 @@
 
 # Todo-list
 
-> Todo-list project: Todo is a tool which organize daily activites, and gives you a list where you can mark completed tasks.
+> Todo-list project: Todo is a tool which organize daily activites, and gives you a list where you can mark completed tasks add and delete.
 
 ![screenshot](./public/app.png)
 
